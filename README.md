@@ -5,6 +5,6 @@
 
 ### Slider live link: [click to show](slider)
 
-``
+`https://fahad7875.github.io/auto-and-manual-slider/`
 
-[slider]: 
+[slider]: https://fahad7875.github.io/auto-and-manual-slider/ 
